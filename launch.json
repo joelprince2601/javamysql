@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaMySQLProject",
+            "classpath": [
+                "lib/mysql-connector-java-x.x.x.jar"
+            ]
+        }
+    ]
+}
